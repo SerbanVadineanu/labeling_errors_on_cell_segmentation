@@ -1,0 +1,12 @@
+{
+  "path_to_data": "",
+  "path_to_models": "",
+  "networks": ["unet", "msd", "segnet"],
+  "setup_list": [[0.0, 0.0, 0], [0.0, 0.2, 0]],
+  "path_for_csv": "",
+  "datasets": ["hl60", "granulocytes"],
+  "reps": [0, 1, 2],
+  "criterion": "dice",
+  "cuda_no": 0,
+  "experiment_name": "exp1"
+}

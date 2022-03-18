@@ -1,0 +1,16 @@
+{
+  "ds_name": "granulocytes",
+  "path_to_data": "/home/serban/Documents/projects/annotation_quality_project/data/granulocytes_tiff/",
+  "path_to_labels": null,
+  "path_to_models": "/home/serban/Documents/projects/annotation_quality_project/models/",
+  "omission_rate": 0.7,
+  "inclusion_rate": 0.0,
+  "bias": 0,
+  "lr": 0.0001,
+  "epochs": 3,
+  "batch_size": 1,
+  "reps": [1, 2, 3],
+  "model_name": "msd",
+  "criterion": "dice",
+  "cuda_no": 0
+}
