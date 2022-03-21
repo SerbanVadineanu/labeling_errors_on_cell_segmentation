@@ -22,6 +22,7 @@ The requirements differ by the intended usage of the repository.
 - tqdm >= 4.59
 - tifffile >= 2021.8.30
 - pandas >= 1.2.5
+- msd_pytorch = 0.10.1 ([repository](https://github.com/ahendriksen/msd_pytorch))
 
 ## Data Requirements
 The requirements differ by the intended usage of the repository.
